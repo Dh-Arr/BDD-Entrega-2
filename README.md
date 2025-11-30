@@ -1,4 +1,4 @@
-# 📂 Proyecto: [Entrega-2]
+# 📂 Proyecto: [BDD]
 
 ### 🎓 Asignatura: Bases de Datos - UBB
 
