@@ -1,9 +1,9 @@
-# 📂 Proyecto: [Pon aquí el nombre de tu Sistema]
+# 📂 Proyecto: [Entrega-2]
 
 ### 🎓 Asignatura: Bases de Datos - UBB
 
 **Descripción:**
-Este proyecto es una solución para gestionar [explica brevemente qué hace, ej: el inventario de una tienda, notas de alumnos, etc.]. Fue desarrollado como proyecto final de semestre.
+En esta entrega se deben generar los script de la creacion de tablas, inserciones de datos y las consultas en lenguaje SQL, de acuerdo al Modelo Relacional entregado.
 
 ---
 
